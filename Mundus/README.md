@@ -24,8 +24,7 @@ Controles:
 Referências:
 
 - Texturas 
-Minecraft (https://www.minecraft.net/)
-[Salvo algumas alterações para adaptar as cores ao meu objetivo]
-- Música de fundo
-The Elder Scrolls III: Morrowind (https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/)
+    - Minecraft (https://www.minecraft.net/)
+- Música
+  - The Elder Scrolls III: Morrowind (https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/)
 - Inspirado no sistema estelar Mundus da série de jogos The Elder Scrolls.
